@@ -514,6 +514,16 @@ const deputadosFederaisSP = [
 const deputadosEstaduaisRJ = [
 
     {
+        nome: "Valdecy da Saúde",
+        cargo: "Deputado Estadual",
+        foto: "Valdecy-da-Saúde.jpg",
+        numero: 22615,
+        partido: "PL",
+        votos: 0
+
+    },
+    
+    {
         nome: "Dionisio de Souza Lins",
         cargo: "Deputado Estadual",
         foto: "dionisio-de-souza-lins.webp",
